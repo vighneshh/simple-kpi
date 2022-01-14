@@ -8,7 +8,7 @@
 	"homepage": "",
 	"keywords": "qlik-sense, visualization",
 	"license": "",
-	"repository": "",
+	"repository": "https://github.com/vighneshh/simple-kpi",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
